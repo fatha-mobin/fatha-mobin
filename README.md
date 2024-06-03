@@ -27,7 +27,7 @@ Clone the repo:
 
 sh
 Copy code
-git clone https://github.com/your_username/ProjectName.git
+git clone https://github.com/fatha-mobin/fathamobin.git
 Navigate to the project directory:
 
 sh
@@ -67,7 +67,7 @@ sh
 Copy code
 npm run test: single
 🤝 Contributing
-Contributions make the open-source community such an amazing place to learn, inspire, and create. I would greatly appreciate any contributions you make.
+Contributions make the open-source community an amazing place to learn, inspire, and create. I would greatly appreciate any contributions you make.
 
 📝 How to Contribute
 Fork the Project
